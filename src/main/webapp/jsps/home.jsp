@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">SOWMYA</h1>
-<h1 align="center">SOWMYA REDDY OKA ADDA GADIDA</h1>
+<h1 align="center">SOWMYA REDDY oka good girl</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>

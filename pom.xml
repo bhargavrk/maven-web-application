@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.108.219.7:8081/repository/bhargav-release/</url>
+	      <name>bhargav release</name>
+	      <url>http://13.127.143.29:8081/repository/bhargav-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.219.7:8081/repository/bhargav-snapshot/</url>
+	      <name>bhargav snapshot</name>
+	      <url>http://13.127.143.29:8081/repository/bhargav-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

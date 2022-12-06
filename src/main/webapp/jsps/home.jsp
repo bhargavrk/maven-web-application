@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>BHARGAV- Home Page</title>
+<title>BHARGAV R K- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>

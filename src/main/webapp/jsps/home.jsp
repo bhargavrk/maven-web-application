@@ -4,50 +4,30 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>BHARGAV R K- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>SOWMYA</title>
+<link href="images/9" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">BHARGAV REDDY</h1>
-<h1 align="center">BHARGAV REDDY</h1>
-<hr>
-<br>
-	<h1><h3> Server Side IP Address </h3><br>
-
-<% 
-String ip = "";
-InetAddress inetAddress = InetAddress.getLocalHost();
-ip = inetAddress.getHostAddress();
-out.println("Server Host Name :: "+inetAddress.getHostName()); 
-%>
-<br>
-<%out.println("Server IP Address :: "+ip);%>
-</h1>
-<br>
-<h1><h3> Client Side IP Address </h3><br>
-<%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
-<%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
-<hr>
+<h1 align="center">(｡◕‿◕｡)   SAI SOWMYA PAPPUSANI   (｡◕‿◕｡)</h1>
+<h1 align="center">ʕ •ᴥ•ʔ   WISH U A MANY MORE HAPPY RETURNS OF THE DAY   ʕ •ᴥ•ʔ</h1>
+	<hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/3.jpg" alt="" width="500">
+	</span>
+<%out.println();%>
+	<h1 align=center> 😍 “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” 😍</h1>
+<div style="text-align: center;">
+	<span>
+		<img src="images/9.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
-		BHARGAV, 
-		siddeshwara nagar,
-		guntakal,
-		+91-8074773340
-		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to bhargav</a>
+		<a href="mailto:saisoumyapappusanisb@gmail.com"></a>
 	</span>
 </div>
-<hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
-<hr>
-<hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<h1 align=center> 😍 “Happy birthday! I hope all your birthday wishes and dreams come true” 😍</h1>
+<h1 align=center><small> 😍 “ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!” 😍</a> </medium></h1>
 
 </body>
 </html>
